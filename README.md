@@ -1,0 +1,2 @@
+# notes-app-js
+NOTES APP MADE USING HTML, CSS AND JS
